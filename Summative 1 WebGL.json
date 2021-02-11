@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "S1 Unity Project",
+"dataUrl": "Summative 1 WebGL.data.unityweb",
+"wasmCodeUrl": "Summative 1 WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Summative 1 WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
